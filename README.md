@@ -239,4 +239,4 @@ This repository serves as the official landing page for Pola. The software is di
 **Get the most recent version of Pola today!**
 
 ---
-**Last updated:** 2026-09-20 22:58:02 UTC
+**Last updated:** 2026-09-21 00:57:12 UTC
